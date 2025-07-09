@@ -4,5 +4,8 @@
   "compatibility_date": "2025-03-25",
   "assets": {
     "directory": "./out"
-  }
+  },
+  # wrangler.toml (wrangler v3.88.0^)
+  [observability.logs]
+  enabled = false
 }
